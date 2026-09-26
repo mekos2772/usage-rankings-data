@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataSource": "usage-rankings",
-  "generatedAt": "2026-09-26T15:04:15Z",
+  "generatedAt": "2026-09-26T15:12:13Z",
   "collectorStatus": "ok",
   "errors": [],
   "openrouter": {
@@ -9,11 +9,11 @@
     "source": "OpenRouter",
     "sourceUrl": "https://openrouter.ai/rankings",
     "license": "CC BY 4.0",
-    "attribution": "Source: OpenRouter (openrouter.ai/rankings), as of 2026-09-26T15:04:14.645Z. Licensed under CC BY 4.0.",
+    "attribution": "Source: OpenRouter (openrouter.ai/rankings), as of 2026-09-26T15:12:13.603Z. Licensed under CC BY 4.0.",
     "date": "2026-09-25",
     "metric": "daily_tokens",
     "unit": "tokens",
-    "asOf": "2026-09-26T15:04:14.645Z",
+    "asOf": "2026-09-26T15:12:13.603Z",
     "note": "官方日榜 token 量，不含 other，不是调用次数，也不代表模型能力。",
     "entries": [
       {
